@@ -7,6 +7,4 @@ Generate a CI/CD Pipeline Script description
 
 ```
 Create a CI/CD pipeline script using GitHub Actions to automate testing, building, and deploying a {{application}}. Configure the workflow to run tests, lint code, build the project and deploy to {{platform}}. Include setup files for any required secrets or environment variables and ensure the output includes detailed comments and deployment instructions. Generate deployment documentation
-
-edit 3
 ```
