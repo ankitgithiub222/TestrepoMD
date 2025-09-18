@@ -8,7 +8,6 @@ The Testing phase ensures the quality and reliability of the software through sy
 
 ### Available Prompts
 
-- [Test Prompt 2](test_prompt_2_68cbee45f20b08f8522f4f18_20250918_170429/)
 
 - [Test Prompt](test_prompt_68cbd13fb3127c113adca1ce_20250918_150039/)
 
