@@ -8,6 +8,8 @@ The Testing phase ensures the quality and reliability of the software through sy
 
 ### Available Prompts
 
+- [Test Email 2](test_email_2_68cd3426fc042d7aac4a3328_20250919_161454/)
+
 
 
 
