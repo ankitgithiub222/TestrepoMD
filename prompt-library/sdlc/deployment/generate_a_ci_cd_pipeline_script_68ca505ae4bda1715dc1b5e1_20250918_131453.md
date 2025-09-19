@@ -1,6 +1,6 @@
 ---
 title: Generate a CI/CD Pipeline Script
-weight: 53
+weight: 55
 ---
 
 Generate a CI/CD Pipeline Script description
